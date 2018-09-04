@@ -11,6 +11,13 @@
 | git diff |Preview changed before push | $ git diff --staged |
 | push | push file to repository | $ git push or $ git push -u origin master |
 | log | check login,commit and status | $ git log  or $ git log -2(commit 2) or $ git log --oneline or $ git log --stat ( loging status)|
+| Brach | Create a new branch | $ git checkout -b (branchname )|
+|Brach| Switch from one branch to another | $ git checkout (branchname)|
+|Branch | List all the branches | $ git branch|
+| Branch | Delete the feature branch | git branch -d (branchname)|
+|Branch |Push the branch to your remote repository | $ git push origin (branchname)|
+|Branch |  Push all branches to your remote repository | $ git push origin --all origin |
+| 
 
 
 
