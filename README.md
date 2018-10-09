@@ -21,6 +21,7 @@
 | stash | list stash remote | $ git stash list |
 | stash | show all stash | $ git stash show |
 | update | git update local | git pull origin [branchname]|
+|update |
 
 
 
